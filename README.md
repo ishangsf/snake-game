@@ -1,7 +1,5 @@
 # 贪吃蛇游戏 (Snake Game)
 
-![游戏截图](https://i.imgur.com/example.png)
-
 ## 项目介绍
 
 这是一个使用 React 和 TypeScript 开发的经典贪吃蛇游戏。游戏具有简洁美观的界面，流畅的操作体验，以及排行榜功能，让您可以记录和比较游戏成绩。
@@ -30,7 +28,7 @@
 1. 克隆项目到本地
 
 ```bash
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/ishangsf/snake-game.git
 cd snake-game
 ```
 
@@ -107,8 +105,6 @@ snake-game/
 
 # Snake Game
 
-![Game Screenshot](https://i.imgur.com/example.png)
-
 ## Project Introduction
 
 This is a classic Snake Game developed with React and TypeScript. The game features a clean and beautiful interface, smooth operation experience, and a leaderboard function that allows you to record and compare game scores.
@@ -137,7 +133,7 @@ Ensure your system has [Node.js](https://nodejs.org/) (v16 or higher recommended
 1. Clone the project
 
 ```bash
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/ishangsf/snake-game.git
 cd snake-game
 ```
 
